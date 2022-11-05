@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All Test Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="D:/Projects/Lecture29_Reporting(failed)">
+    <classes>
+      <class name="Rozetka.Test">
+        <methods>
+          <include name="test"/>
+          <include name="setWebDriver"/>
+          <include name="quiteDriver"/>
+        </methods>
+      </class> <!-- Rozetka.Test -->
+    </classes>
+  </test> <!-- D:/Projects/Lecture29_Reporting(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->
